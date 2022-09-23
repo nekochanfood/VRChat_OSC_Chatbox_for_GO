@@ -8,7 +8,7 @@ import (
 
 func main() {
 	var (
-		msg  = flag.String("msg", "null!", "the message")
+		msg  = flag.String("msg", "message", "A message")
 		ip   = flag.String("ip", "127.0.0.1", "ip address")
 		port = flag.Int("port", 9000, "port")
 	)
