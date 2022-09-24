@@ -1,5 +1,5 @@
 # VRChat_OSC_Chatbox_for_GO
-Send a message on VRChat's Chatbox using OSC (using GO)
+Send a message on VRChat's Chatbox using OSC
 ## Args
 | Arg  | Means |
 | ------------- | ------------- |
