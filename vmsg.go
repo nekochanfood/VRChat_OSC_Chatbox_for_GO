@@ -13,7 +13,7 @@ func main() {
 		msg             = flag.String("msg", "message", "A message")   // -msg "A message"
 		ip              = flag.String("ip", "127.0.0.1", "ip address") // -ip 127.0.0.1
 		port            = flag.Int("port", 9000, "port")               // -port 0000
-		continuous_mode = flag.Bool("c", false, "continuous mode")     // -c
+		continuous_mode = flag.Bool("c", false, "continuous mode")     // -c continuous mode
 	)
 	flag.Parse()
 
